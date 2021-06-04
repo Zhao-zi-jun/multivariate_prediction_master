@@ -7,7 +7,7 @@ Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks.(https
 
 ### Environment 
 
-* Python 3.6+
+* Python 3.8+
 * Pytorch 1.0+
 * numpy
 
